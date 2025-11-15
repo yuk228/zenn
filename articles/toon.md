@@ -2,7 +2,7 @@
 title: 'TOONってなんぞや'
 published: false
 type: tech
-emoji: '🤖
+emoji: '🤖'
 topics: ['toon', 'llm', 'token']
 ---
 
